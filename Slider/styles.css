@@ -7,13 +7,12 @@
 body {
     font-family: 'Muli', sans-serif;
     overflow: hidden;
+    background: #737373;
     margin: 0;
-    background: blueviolet ;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-
 
 
 }
@@ -24,6 +23,15 @@ body {
     display: flex;
     padding: 0 20px;
 
+}
+.overflow {
+    width: 100%;
+    display: flex;
+    background: #20202066;
+    padding: 50px;
+    border-radius: 35px;
+    box-shadow: 0 0 17px 3px #ffffff26;
+    transition: all .4s ease-in-out 0.4s;
 }
 
 .slide {
@@ -52,6 +60,16 @@ body {
 
 .slide.active {
     flex: 10;
+}
+
+.slide.active:hover {
+    transform: translate(-5px, -15px);
+    padding: 5px 0;
+    opacity: 1;
+}
+
+.slide:hover {
+    opacity: 0.7;
 }
 
 .slide.active h3 {

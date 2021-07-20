@@ -15,15 +15,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584299e3-9ac9-4bae-8318-e6acd97d8efc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JS_urok_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slider/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slider/styles.css" afterDir="false" />
+    <list default="true" id="584299e3-9ac9-4bae-8318-e6acd97d8efc" name="Default Changelist" comment="add an unfinished slider">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slider/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slider/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slider/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Slider/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +34,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ttDXFq4rlYd3KU0plEj16tcbvd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,6 +61,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,8 +74,20 @@
       <updated>1623579529513</updated>
       <workItem from="1623579530773" duration="12685000" />
       <workItem from="1623597318537" duration="865000" />
-      <workItem from="1623616164874" duration="282000" />
+      <workItem from="1623616164874" duration="1125000" />
+      <workItem from="1623687595282" duration="119000" />
+      <workItem from="1623754207584" duration="90000" />
+      <workItem from="1625145380505" duration="2233000" />
+      <workItem from="1626791174677" duration="774000" />
     </task>
+    <task id="LOCAL-00001" summary="add an unfinished slider">
+      <created>1623616771164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623616771164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +103,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add an unfinished slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="add an unfinished slider" />
   </component>
 </project>
